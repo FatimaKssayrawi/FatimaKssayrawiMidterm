@@ -1,0 +1,7 @@
+emp001, cdaoud, 20220802, male, 2500
+emp002, manuella, 20220803, female, 1200
+emp004, sami, 20220805, male, 500
+emp003, fatima, 20220804, female, 800
+emp005, manal, 20220806, female, 5125
+emp006, farah, 20230819, female, 1000
+emp007, aly, 20230819, male, 750
